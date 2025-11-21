@@ -1,78 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ci\u00EAncias da computa\u00E7\u00E3o\\poo\\poo\\assets\\scripts\\bars\\statbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bars\\statbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ci\u00EAncias da computa\u00E7\u00E3o\\poo\\poo2.8\\poo\\assets\\scripts\\potions\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\potions\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ci\u00EAncias da computa\u00E7\u00E3o\\poo\\poo\\assets\\scripts\\bars\\manabarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bars\\manabarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ci\u00EAncias da computa\u00E7\u00E3o\\poo\\poo\\assets\\scripts\\bars\\lifebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ci\u00EAncias da computa\u00E7\u00E3o\\poo\\poo2.8\\poo\\assets\\scripts\\bars\\lifebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bars\\lifebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ci\u00EAncias da computa\u00E7\u00E3o\\poo\\poo\\assets\\scripts\\bars\\enemylifebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bars\\enemylifebarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ci\u00EAncias da computa\u00E7\u00E3o\\poo\\poo\\assets\\scripts\\damage\\enemydamage\\proximitydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damage\\enemydamage\\proximitydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ci\u00EAncias da computa\u00E7\u00E3o\\poo\\poo\\assets\\scripts\\damage\\enemydamage\\idamagedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damage\\enemydamage\\idamagedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\assets\\scripts\\damage\\playerdamage\\playerattackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damage\\playerdamage\\playerattackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ci\u00EAncias da computa\u00E7\u00E3o\\poo\\poo\\assets\\scripts\\damage\\playerdamage\\clickattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damage\\playerdamage\\clickattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\assets\\scripts\\damage\\playerdamage\\iattackstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damage\\playerdamage\\iattackstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\assets\\scripts\\damage\\destroyenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damage\\destroyenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\assets\\scripts\\movement\\imovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement\\imovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\assets\\scripts\\movement\\basicmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement\\basicmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\assets\\scripts\\pursuit\\basicpursuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pursuit\\basicpursuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\assets\\scripts\\pursuit\\enemypursuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pursuit\\enemypursuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\assets\\scripts\\pursuit\\ipursuitstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pursuit\\ipursuitstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ci\u00EAncias da computa\u00E7\u00E3o\\poo\\poo2.8\\poo\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\assets\\scripts\\charactercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\assets\\scripts\\menu\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\assets\\scripts\\damage\\playerdamage\\clickattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damage\\playerdamage\\clickattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\ci\u00EAncias da computa\u00E7\u00E3o\\poo\\poo2.8\\poo\\assets\\scripts\\testfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\assets\\scripts\\damage\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damage\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\assets\\scripts\\bars\\statbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D07948E-C32A-60E8-BB20-AD9D88C7B04E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bars\\statbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,227 +47,104 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StatBarController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Bars\\StatBarController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Bars\\StatBarController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Bars\\StatBarController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Bars\\StatBarController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCcAAAAFAAAA",
+              "Title": "HealthPotion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\Potions\\HealthPotion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Potions\\HealthPotion.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\Potions\\HealthPotion.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\Potions\\HealthPotion.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:21:53.742Z",
+              "WhenOpened": "2025-11-21T08:34:53.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ManaBarController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Bars\\ManaBarController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Bars\\ManaBarController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Bars\\ManaBarController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Bars\\ManaBarController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Title": "LifeBarController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\Bars\\LifeBarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bars\\LifeBarController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\Bars\\LifeBarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bars\\LifeBarController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:21:48.743Z",
+              "WhenOpened": "2025-11-21T08:34:13.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LifeBarController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Bars\\LifeBarController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Bars\\LifeBarController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Bars\\LifeBarController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Bars\\LifeBarController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:20:39.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EnemyLifeBarController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Bars\\EnemyLifeBarController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Bars\\EnemyLifeBarController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Bars\\EnemyLifeBarController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Bars\\EnemyLifeBarController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:20:22.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProximityDamage.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Damage\\EnemyDamage\\ProximityDamage.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage\\EnemyDamage\\ProximityDamage.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Damage\\EnemyDamage\\ProximityDamage.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Damage\\EnemyDamage\\ProximityDamage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:19:49.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IDamageDealer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Damage\\EnemyDamage\\IDamageDealer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage\\EnemyDamage\\IDamageDealer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Damage\\EnemyDamage\\IDamageDealer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Damage\\EnemyDamage\\IDamageDealer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:19:27.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ClickAttack.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Damage\\PlayerDamage\\ClickAttack.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage\\PlayerDamage\\ClickAttack.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Damage\\PlayerDamage\\ClickAttack.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Damage\\PlayerDamage\\ClickAttack.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T00:57:38.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BasicPursuit.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Pursuit\\BasicPursuit.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Pursuit\\BasicPursuit.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Pursuit\\BasicPursuit.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Pursuit\\BasicPursuit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:15:33.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IAttackStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Damage\\PlayerDamage\\IAttackStrategy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage\\PlayerDamage\\IAttackStrategy.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Damage\\PlayerDamage\\IAttackStrategy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Damage\\PlayerDamage\\IAttackStrategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T00:55:13.455Z",
+              "WhenOpened": "2025-11-21T08:28:25.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PlayerAttackController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Damage\\PlayerDamage\\PlayerAttackController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage\\PlayerDamage\\PlayerAttackController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Damage\\PlayerDamage\\PlayerAttackController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Damage\\PlayerDamage\\PlayerAttackController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Title": "Spell.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\Damage\\Spell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage\\Spell.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\Damage\\Spell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Damage\\Spell.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAYwLQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T00:58:16.455Z",
+              "WhenOpened": "2025-11-21T07:56:38.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClickAttack.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\Damage\\PlayerDamage\\ClickAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage\\PlayerDamage\\ClickAttack.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\Damage\\PlayerDamage\\ClickAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Damage\\PlayerDamage\\ClickAttack.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T07:52:27.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DestroyEnemy.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Damage\\DestroyEnemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage\\DestroyEnemy.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Damage\\DestroyEnemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Damage\\DestroyEnemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\Menu\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\Menu\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\MenuManager.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T00:54:39.21Z"
+              "WhenOpened": "2025-11-21T07:41:32.61Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BasicMovement.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Movement\\BasicMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement\\BasicMovement.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Movement\\BasicMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Movement\\BasicMovement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "TestFinal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\TestFinal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TestFinal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\TestFinal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TestFinal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:16:08.775Z"
+              "WhenOpened": "2025-11-21T07:35:35.295Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IMovementStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Movement\\IMovementStrategy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement\\IMovementStrategy.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Movement\\IMovementStrategy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Movement\\IMovementStrategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "StatBarController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\Bars\\StatBarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bars\\StatBarController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO2.8\\POO\\Assets\\Scripts\\Bars\\StatBarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bars\\StatBarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:16:41.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EnemyPursuit.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Pursuit\\EnemyPursuit.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Pursuit\\EnemyPursuit.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Pursuit\\EnemyPursuit.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Pursuit\\EnemyPursuit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:15:07.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IPursuitStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Pursuit\\IPursuitStrategy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Pursuit\\IPursuitStrategy.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\Pursuit\\IPursuitStrategy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Pursuit\\IPursuitStrategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:14:51.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EnemyController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\EnemyController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\EnemyController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:14:29.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CharacterController2D.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\CharacterController2D.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterController2D.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\CharacterController2D.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CharacterController2D.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:14:09.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CameraFollow.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\CameraFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Ci\u00EAncias da Computa\u00E7\u00E3o\\POO\\POO\\Assets\\Scripts\\CameraFollow.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T01:13:30.69Z"
+              "WhenOpened": "2025-11-21T07:27:59.96Z"
             }
           ]
         }

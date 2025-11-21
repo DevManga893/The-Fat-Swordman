@@ -1,4 +1,4 @@
 public interface IAttackStrategy
 {
-    void Attack(StatBarController target);
+    void Attack(EnemyLifeBarController target);
 }

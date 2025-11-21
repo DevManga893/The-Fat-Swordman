@@ -58,18 +58,20 @@
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\Damage\PlayerDamage\PlayerAttackController.cs" />
     <Compile Include="Assets\Scripts\Bars\StatBarController.cs" />
+    <Compile Include="Assets\Scripts\Menu\MenuManager.cs" />
     <Compile Include="Assets\Scripts\Bars\LifeBarController.cs" />
     <Compile Include="Assets\Scripts\Pursuit\BasicPursuit.cs" />
-    <Compile Include="Assets\Scripts\Bars\ManaBarController.cs" />
+    <Compile Include="Assets\Scripts\Menu\SceneLoader.cs" />
+    <Compile Include="Assets\Scripts\TestFinal.cs" />
     <Compile Include="Assets\Scripts\Movement\IMovementStrategy.cs" />
     <Compile Include="Assets\Scripts\Damage\PlayerDamage\IAttackStrategy.cs" />
     <Compile Include="Assets\Scripts\Damage\DestroyEnemy.cs" />
     <Compile Include="Assets\Scripts\Damage\EnemyDamage\IDamageDealer.cs" />
     <Compile Include="Assets\Scripts\Damage\PlayerDamage\ClickAttack.cs" />
-    <Compile Include="Assets\Scripts\Pursuit\EnemyPursuit.cs" />
     <Compile Include="Assets\Scripts\CharacterController2D.cs" />
     <Compile Include="Assets\Scripts\Pursuit\IPursuitStrategy.cs" />
     <Compile Include="Assets\Scripts\Movement\BasicMovement.cs" />
+    <Compile Include="Assets\Scripts\Menu\MenuActions.cs" />
     <Compile Include="Assets\Scripts\EnemyController.cs" />
   </ItemGroup>
   <ItemGroup>

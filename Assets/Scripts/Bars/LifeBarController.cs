@@ -8,6 +8,7 @@ public class LifeBarController : StatBarController
     {
         base.UpdateBar();
 
+        // Se a vida chegou a zero, dispara a morte
         if (currentValue <= 0f && destroyOnDeath)
         {
             HandleDeath();
@@ -16,9 +17,13 @@ public class LifeBarController : StatBarController
 
     private void HandleDeath()
     {
-        // Aqui você pode adicionar lógica de morte, animação, desativar o jogador, etc.
         Debug.Log("Player morreu!");
+
+        // Desativa o objeto do jogador (opcional)
         gameObject.SetActive(false);
+
+        // Voltar ao menu principal
+        SceneLoader.LoadSceneByName("Menu");
     }
 
     public override void ModifyValue(float amount)

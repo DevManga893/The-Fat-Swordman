@@ -44,3 +44,4 @@ public abstract class StatBarController : MonoBehaviour
         return maxValue;
     }
 }
+

@@ -2,13 +2,23 @@ using UnityEngine;
 
 public class PlayerAttackController : MonoBehaviour
 {
-    [SerializeField] private StatBarController enemyTarget;
-
     private IAttackStrategy attackStrategy;
+    private EnemyLifeBarController enemyTarget;
 
     private void Start()
     {
-        attackStrategy = new ClickAttack();
+        // Obtém a estratégia do filho (sensor)
+        attackStrategy = GetComponentInChildren<IAttackStrategy>();
+    }
+
+    public void SetTarget(EnemyLifeBarController target)
+    {
+        enemyTarget = target;
+    }
+
+    public void ClearTarget()
+    {
+        enemyTarget = null;
     }
 
     private void Update()
