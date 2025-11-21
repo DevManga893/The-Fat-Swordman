@@ -47,4 +47,54 @@ Uma de nossas princripais dificuldades seria a flata de experiencia dos demais q
 nunca haviam tido a experiência de se criar um jogo, o nosso integrante que possui
 estas skills é João o qual ficou encarregado da maior parte de programação e de sua logica
 e os demais tinham que implementar pequenas mudanças, ja nosso membro que tinha o computador
-mais simples ficou responsavel pela documentação e pelos registros de avanço.
+mais simples ficou responsavel pela documentação e pelos registros de avanço. 
+
+🚀 Instruções de Instalação e Uso (Unity)
+📦 Pré-requisitos
+Unity Hub instalado (download oficial)
+
+Versão recomendada do Unity Editor (exemplo: 2021.3 LTS ou a versão que você usou no projeto)
+
+Git instalado para clonar o repositório (download oficial)
+
+🔧 Instalação
+Clonar o repositório
+
+bash
+git clone https://github.com/SEU_USUARIO/NOME_REPOSITORIO.git
+ou baixe o .zip direto do GitHub.
+
+Abrir no Unity Hub
+
+Abra o Unity Hub
+
+Clique em Add
+
+Selecione a pasta do projeto clonado
+
+Selecionar a versão correta do Unity
+
+Certifique-se de que a versão do Unity usada no projeto está instalada
+
+Se não estiver, instale pelo Unity Hub
+
+▶️ Uso
+Abrir o projeto no Unity Editor pelo Unity Hub
+
+Carregar a cena principal
+
+Vá até a pasta Assets/Scenes/
+
+Abra a cena inicial (exemplo: Menu.unity ou SampleScene.unity)
+
+Rodar o jogo
+
+Clique no botão Play dentro do Unity Editor
+
+Build do jogo (opcional)
+
+Vá em File > Build Settings
+
+Escolha a plataforma (Windows, Mac, Android, etc.)
+
+Clique em Build para gerar o executável
