@@ -61,7 +61,7 @@ Git instalado para clonar o repositório (download oficial)
 Clonar o repositório
 
 bash
-git clone https://github.com/SEU_USUARIO/NOME_REPOSITORIO.git
+git clone https://github.com/DevManga893/The-Fat-Swordman.git
 ou baixe o .zip direto do GitHub.
 
 Abrir no Unity Hub
